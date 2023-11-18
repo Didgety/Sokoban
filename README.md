@@ -1,6 +1,8 @@
 # Sokoban!
 #### Jai Veilleux
 
+This program was **only** tested on Windows 11
+
 A recreation of the classic computer game [Sokoban](https://en.wikipedia.org/wiki/Sokoban) in C++. It utilizes the GLFW,
 GLAD, GLM, STB, and FreeType libraries.
 

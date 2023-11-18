@@ -1,0 +1,81 @@
+# Maps are displayed in the horizontal inverse
+# ie. the bottom line is actually the top when rendered
+# KEY
+# _ : floor
+# X : wall
+# * : box
+# ! : target
+# @ : player
+# $ : box and target
+1 # Level 1 : Playable area 8w x 9h
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+X___!__XXXXX
+X*_$**!XXXXX
+X_X_!_XXXXXX
+X!XX*_XXXXXX
+XXX_*!XXXXXX
+X!@*__XXXXXX
+XXX___XXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+2 # Level 2 : Playable area 9 x 9
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXX!_!_!XXXX
+XX_X*_*X_XXX
+XX!*_*_*!XXX
+XX!_*@*_!XXX
+XX!*_*_*!XXX
+XX_X*_*X_XXX
+XXX!_!_!XXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+3 # Level 3 : Playable area 11w x 6h
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+X__*!!*__@XX
+X__*!!*___XX
+X__*!!*___XX
+X__*!!*__XXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+4 # Level 4 : Playable area 12w x 11h
+XXXXXX__XXX_
+X!!__X_XX@XX
+X!!__XXX___X
+X!!_____**_X
+X!!__X_X_*_X
+X!!XXX_X_*_X
+XXXX_*_X*__X
+___X__*X_*_X
+___X_*__*__X
+___X__XX___X
+___XXXXXXXXX
+5 # Level 5 : Playable area 11w x 10h
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+X__X___X__XX
+X__*__*___XX
+X__XX!XX__XX
+XX_!!!XX*XXX
+XX*X!!!___XX
+X__X!XX*X_XX
+X_**__*___XX
+X_@X__XXXXXX
+XXXXXXXXXXXX
+6 # Secret dev map for testing B)
+XXXXXXXXXXXX
+X__________X
+X__________X
+X___*@*____X
+X____$_____X
+X____!_____X
+X__________X
+X____!_____X
+X__________X
+X__________X
+XXXXXXXXXXXX

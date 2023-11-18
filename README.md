@@ -9,7 +9,7 @@ GLAD, GLM, STB, and FreeType libraries.
 ## Sokoban
 
 Sokoban is a puzzle game about pushing boxes onto the appropriate tiles. You can play
-it [here](http://borgar.net/programs/sokoban/) or [here](https://www.mathsisfun.com/games/sokoban.html).
+other versions of it [here](http://borgar.net/programs/sokoban/) or [here](https://www.mathsisfun.com/games/sokoban.html).
 
 [![Sokoban-ani.gif](Sokoban_ani.gif)](https://en.wikipedia.org/wiki/Sokoban)
 
